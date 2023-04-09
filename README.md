@@ -4,7 +4,7 @@ Hi Dev ✋
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/822994305143668747)](https://discord.com/users/1088011765998178324)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1088011765998178324)](https://discord.com/users/1088011765998178324)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eirlysseren) 
